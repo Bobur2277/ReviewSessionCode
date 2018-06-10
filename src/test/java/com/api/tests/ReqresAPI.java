@@ -65,7 +65,7 @@ public class ReqresAPI {
       		assertEquals("Ramos",json.getString("data.find{it.id==6}.last_name"));
       		assertEquals("Tracey",json.getString("data.find{it.id==6}.first_name"));
         
-
+      		
                
         
     }
